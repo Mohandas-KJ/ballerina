@@ -47,7 +47,7 @@ We welcome contributions! Please fork this repository, create a feature branch, 
 
 ## Contact
 For questions or suggestions, reach out at:
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/mohandaskj)
+- LinkedIn: www.linkedin.com/in/mohandaskj
 - Email: mohandaskj.11@gmail.com
 
 
