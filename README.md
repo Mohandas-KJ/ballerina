@@ -15,12 +15,13 @@ fake profiles or enormous number of profiles.It's hard to keep track on the **Pa
 
 ## Installation:
 1. Download the `.deb` package from the following sources
-      - GitHub Release Page:
-      - SourceForge.net:
+      - GitHub Release Page: https://github.com/Mohandas-KJ/ballerina/releases
 2. Install the package using:
+   
    ```bash
    sudo dpkg -i ballerina.deb
-3. Run the Program using
+4. Run the Program using:
+   
    ```bash
    ballerina
 
